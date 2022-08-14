@@ -15,12 +15,11 @@ body{
 @media (min-width:768px) {
   body{
     background-image:url(../img/bg-pattern-top-desktop.svg),url(../img/bg-pattern-bottom-desktop.svg);
-    background-position:0px 0px, 100% 50%;
-    background-size: 32% , 54%;
+    background-position:-276px -2px, -27% 102%;
+    background-size: 90%, 110%;
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    
   }
 }
